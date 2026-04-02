@@ -1,0 +1,157 @@
+[
+  { "id": 1, "question": "In what year did Nigeria gain independence from Britain?", "A": "1957", "B": "1959", "C": "1960", "D": "1963", "answer": "C" },
+  { "id": 2, "question": "Who was Nigerias first Prime Minister?", "A": "Nnamdi Azikiwe", "B": "Obafemi Awolowo", "C": "Ahmadu Bello", "D": "Abubakar Tafawa Balewa", "answer": "D" },
+  { "id": 3, "question": "Who was Nigerias first President?", "A": "Abubakar Tafawa Balewa", "B": "Nnamdi Azikiwe", "C": "Yakubu Gowon", "D": "Olusegun Obasanjo", "answer": "B" },
+  { "id": 4, "question": "Which colonial power ruled Nigeria before independence?", "A": "France", "B": "Portugal", "C": "Britain", "D": "Germany", "answer": "C" },
+  { "id": 5, "question": "The amalgamation of Northern and Southern Nigeria took place in which year?", "A": "1900", "B": "1906", "C": "1914", "D": "1922", "answer": "C" },
+  { "id": 6, "question": "Who carried out the amalgamation of Nigeria in 1914?", "A": "Lord Lugard", "B": "Hugh Clifford", "C": "Arthur Richards", "D": "James Robertson", "answer": "A" },
+  { "id": 7, "question": "What was the name of Nigerias first constitution?", "A": "Macpherson Constitution", "B": "Richards Constitution", "C": "Clifford Constitution", "D": "Lyttleton Constitution", "answer": "C" },
+  { "id": 8, "question": "In which year was the Clifford Constitution introduced?", "A": "1914", "B": "1922", "C": "1946", "D": "1951", "answer": "B" },
+  { "id": 9, "question": "Which constitution introduced regionalism in Nigeria?", "A": "Clifford", "B": "Richards", "C": "Macpherson", "D": "Lyttleton", "answer": "B" },
+  { "id": 10, "question": "Who was the first Governor-General of Nigeria?", "A": "Lord Lugard", "B": "James Robertson", "C": "Nnamdi Azikiwe", "D": "Hugh Clifford", "answer": "B" },
+
+  { "id": 11, "question": "Which nationalist founded the NCNC?", "A": "Nnamdi Azikiwe", "B": "Obafemi Awolowo", "C": "Ahmadu Bello", "D": "Herbert Macaulay", "answer": "A" },
+  { "id": 12, "question": "Who founded the Action Group?", "A": "Nnamdi Azikiwe", "B": "Ahmadu Bello", "C": "Obafemi Awolowo", "D": "Tafawa Balewa", "answer": "C" },
+  { "id": 13, "question": "Which party was led by Ahmadu Bello?", "A": "NCNC", "B": "AG", "C": "NPC", "D": "NEPU", "answer": "C" },
+  { "id": 14, "question": "Nigeria became a republic in which year?", "A": "1960", "B": "1963", "C": "1966", "D": "1979", "answer": "B" },
+  { "id": 15, "question": "Who became Nigerias first military Head of State?", "A": "Yakubu Gowon", "B": "Aguiyi-Ironsi", "C": "Murtala Mohammed", "D": "Olusegun Obasanjo", "answer": "B" },
+  { "id": 16, "question": "The first military coup in Nigeria occurred in?", "A": "1963", "B": "1965", "C": "1966", "D": "1967", "answer": "C" },
+  { "id": 17, "question": "Who led Nigeria during the civil war?", "A": "Aguiyi-Ironsi", "B": "Yakubu Gowon", "C": "Obasanjo", "D": "Babangida", "answer": "B" },
+  { "id": 18, "question": "The Nigerian Civil War lasted from?", "A": "1966 to 1969", "B": "1967 to 1970", "C": "1968 to 1971", "D": "1970 to 1973", "answer": "B" },
+  { "id": 19, "question": "What was the secessionist state called?", "A": "Oduduwa", "B": "Biafra", "C": "Arewa", "D": "Niger Delta", "answer": "B" },
+  { "id": 20, "question": "Who was the leader of Biafra?", "A": "Ojukwu", "B": "Gowon", "C": "Ironsi", "D": "Azikiwe", "answer": "A" },
+
+  { "id": 21, "question": "Who assassinated Murtala Mohammed?", "A": "Dimka", "B": "Babangida", "C": "Abacha", "D": "Obasanjo", "answer": "A" },
+  { "id": 22, "question": "Who succeeded Murtala Mohammed?", "A": "Buhari", "B": "Babangida", "C": "Obasanjo", "D": "Gowon", "answer": "C" },
+  { "id": 23, "question": "Nigeria returned to civilian rule in 1979 under?", "A": "Obasanjo", "B": "Shagari", "C": "Buhari", "D": "Babangida", "answer": "B" },
+  { "id": 24, "question": "Which republic began in 1979?", "A": "First", "B": "Second", "C": "Third", "D": "Fourth", "answer": "B" },
+  { "id": 25, "question": "Who overthrew Shagari in 1983?", "A": "Abacha", "B": "Babangida", "C": "Buhari", "D": "Obasanjo", "answer": "C" },
+
+  { "id": 26, "question": "Who became military president in 1985?", "A": "Buhari", "B": "Abacha", "C": "Babangida", "D": "Obasanjo", "answer": "C" },
+  { "id": 27, "question": "The June 12 election was held in?", "A": "1989", "B": "1991", "C": "1993", "D": "1995", "answer": "C" },
+  { "id": 28, "question": "Who won the June 12, 1993 election?", "A": "Abacha", "B": "Abiola", "C": "Buhari", "D": "Shonekan", "answer": "B" },
+  { "id": 29, "question": "Who annulled the June 12 election?", "A": "Abacha", "B": "Shonekan", "C": "Buhari", "D": "Babangida", "answer": "D" },
+  { "id": 30, "question": "Who headed the Interim National Government?", "A": "Abiola", "B": "Shonekan", "C": "Abacha", "D": "Obasanjo", "answer": "B" },
+
+  { "id": 31, "question": "Who seized power after the ING in 1993?", "A": "Buhari", "B": "Obasanjo", "C": "Abacha", "D": "Gowon", "answer": "C" },
+  { "id": 32, "question": "Which activist was executed under Abacha?", "A": "Ken Saro-Wiwa", "B": "Gani Fawehinmi", "C": "Wole Soyinka", "D": "Fela Kuti", "answer": "A" },
+  { "id": 33, "question": "In what year did Abacha die?", "A": "1996", "B": "1997", "C": "1998", "D": "1999", "answer": "C" },
+  { "id": 34, "question": "Who took over after Abachas death?", "A": "Abdulsalami Abubakar", "B": "Babangida", "C": "Obasanjo", "D": "Buhari", "answer": "A" },
+  { "id": 35, "question": "Nigeria returned to democracy in?", "A": "1998", "B": "1999", "C": "2000", "D": "2001", "answer": "B" },
+
+  { "id": 36, "question": "Who was elected president in 1999?", "A": "Abacha", "B": "Buhari", "C": "Obasanjo", "D": "Atiku", "answer": "C" },
+  { "id": 37, "question": "Nigerias current republic is the?", "A": "Second", "B": "Third", "C": "Fourth", "D": "Fifth", "answer": "C" },
+  { "id": 38, "question": "Which year was Abuja made Nigerias capital?", "A": "1976", "B": "1980", "C": "1991", "D": "2000", "answer": "C" },
+  { "id": 39, "question": "Who recommended Abuja as capital?", "A": "Gowon", "B": "Obasanjo", "C": "Justice Akinola Aguda", "D": "Babangida", "answer": "C" },
+  { "id": 40, "question": "Lagos stopped being capital in?", "A": "1976", "B": "1985", "C": "1991", "D": "1999", "answer": "C" },
+
+  { "id": 41, "question": "Oil was discovered in Oloibiri in?", "A": "1956", "B": "1960", "C": "1963", "D": "1970", "answer": "A" },
+  { "id": 42, "question": "Nigeria joined OPEC in?", "A": "1965", "B": "1971", "C": "1975", "D": "1980", "answer": "B" },
+  { "id": 43, "question": "Who introduced SAP?", "A": "Buhari", "B": "Abacha", "C": "Babangida", "D": "Obasanjo", "answer": "C" },
+  { "id": 44, "question": "Nigerias first newspaper was?", "A": "West African Pilot", "B": "Daily Times", "C": "Iwe Irohin", "D": "Nigerian Tribune", "answer": "C" },
+  { "id": 45, "question": "Who founded Iwe Irohin?", "A": "Townsend", "B": "Azikiwe", "C": "Awolowo", "D": "Balewa", "answer": "A" },
+
+  { "id": 46, "question": "Nigeria was divided into 12 states in?", "A": "1963", "B": "1967", "C": "1976", "D": "1987", "answer": "B" },
+  { "id": 47, "question": "How many states does Nigeria have today?", "A": "30", "B": "32", "C": "36", "D": "37", "answer": "C" },
+  { "id": 48, "question": "Who created the most states in Nigeria?", "A": "Gowon", "B": "Babangida", "C": "Abacha", "D": "Obasanjo", "answer": "C" },
+
+  { "id": 49, "question": "British colonial rule formally began in?", "A": "1861", "B": "1885", "C": "1900", "D": "1914", "answer": "C" },
+  { "id": 50, "question": "Which company first administered Nigeria?", "A": "Royal Niger Company", "B": "UAC", "C": "East India Company", "D": "WA Company", "answer": "A" },
+
+  { "id": 51, "question": "Which riot involved Nigerian women protesting taxes?", "A": "Aba Womens Riot", "B": "Enugu Riot", "C": "Jos Riot", "D": "Kano Riot", "answer": "A" },
+  { "id": 52, "question": "Aba Womens Riot occurred in?", "A": "1918", "B": "1925", "C": "1929", "D": "1936", "answer": "C" },
+
+  { "id": 53, "question": "Which system made indirect rule successful in the North?", "A": "Chiefdom", "B": "Emirate", "C": "Village", "D": "Council", "answer": "B" },
+  { "id": 54, "question": "Which region resisted indirect rule most?", "A": "North", "B": "West", "C": "East", "D": "Middle Belt", "answer": "C" },
+
+  { "id": 55, "question": "Which slogan ended the civil war?", "A": "Unity", "B": "No victor, no vanquished", "C": "Peace first", "D": "Forward Nigeria", "answer": "B" },
+
+  { "id": 56, "question": "NYSC was created in?", "A": "1971", "B": "1972", "C": "1973", "D": "1974", "answer": "C" },
+  { "id": 57, "question": "Who introduced NYSC?", "A": "Ironsi", "B": "Gowon", "C": "Murtala", "D": "Obasanjo", "answer": "B" },
+
+  { "id": 58, "question": "Who introduced the War Against Indiscipline?", "A": "Buhari", "B": "Babangida", "C": "Abacha", "D": "Obasanjo", "answer": "A" },
+
+  { "id": 59, "question": "Which constitution introduced federal character?", "A": "1963", "B": "1979", "C": "1989", "D": "1999", "answer": "B" },
+
+  { "id": 60, "question": "Who voluntarily handed over power to civilians?", "A": "Gowon", "B": "Obasanjo", "C": "Babangida", "D": "Abacha", "answer": "B" },
+
+  { "id": 61, "question": "Nigeria joined the Commonwealth in?", "A": "1959", "B": "1960", "C": "1961", "D": "1963", "answer": "B" },
+
+  { "id": 62, "question": "Who delivered Nigerias independence speech?", "A": "Azikiwe", "B": "Awolowo", "C": "Tafawa Balewa", "D": "Ahmadu Bello", "answer": "C" },
+
+  { "id": 63, "question": "Which constitution ushered in the Second Republic?", "A": "1963", "B": "1979", "C": "1989", "D": "1999", "answer": "B" },
+
+  { "id": 64, "question": "The Third Republic collapsed due to?", "A": "Economy", "B": "War", "C": "Election annulment", "D": "Coup", "answer": "C" },
+
+  { "id": 65, "question": "Who chaired the 1979 constitution committee?", "A": "Justice Udoma", "B": "Justice Aguda", "C": "Justice Eso", "D": "Justice Belgore", "answer": "A" },
+
+  { "id": 66, "question": "Who announced Nigerias return to democracy in 1999?", "A": "Obasanjo", "B": "Abdulsalami Abubakar", "C": "Abacha", "D": "Buhari", "answer": "B" },
+
+  { "id": 67, "question": "Nigeria marked 50 years of independence in?", "A": "2009", "B": "2010", "C": "2011", "D": "2012", "answer": "B" },
+
+  { "id": 68, "question": "Who was president during Nigerias 50th anniversary?", "A": "Obasanjo", "B": "Yar Adua", "C": "Goodluck Jonathan", "D": "Buhari", "answer": "C" },
+
+  { "id": 69, "question": "Who is known as the father of Nigerian nationalism?", "A": "Azikiwe", "B": "Awolowo", "C": "Herbert Macaulay", "D": "Balewa", "answer": "C" },
+
+  { "id": 70, "question": "Which agreement preceded the civil war?", "A": "Aburi Accord", "B": "Lagos Accord", "C": "Enugu Accord", "D": "Addis Accord", "answer": "A" },
+
+  { "id": 71, "question": "Who announced the end of the civil war?", "A": "Gowon", "B": "Ojukwu", "C": "Obasanjo", "D": "Danjuma", "answer": "A" },
+
+  { "id": 72, "question": "Which year was the FCT created?", "A": "1975", "B": "1976", "C": "1977", "D": "1978", "answer": "B" },
+
+  { "id": 73, "question": "Which military regime created the FCT?", "A": "Gowon", "B": "Murtala Mohammed", "C": "Obasanjo", "D": "Babangida", "answer": "B" },
+
+  { "id": 74, "question": "Which Nigerian leader was assassinated in 1976?", "A": "Gowon", "B": "Murtala Mohammed", "C": "Ironsi", "D": "Abacha", "answer": "B" },
+
+  { "id": 75, "question": "Who was Nigerias longest-serving military ruler?", "A": "Gowon", "B": "Babangida", "C": "Abacha", "D": "Buhari", "answer": "B" },
+
+  { "id": 76, "question": "Which leader relocated the capital to Abuja?", "A": "Gowon", "B": "Obasanjo", "C": "Babangida", "D": "Abacha", "answer": "C" },
+
+  { "id": 77, "question": "Which parties were created under Babangida?", "A": "NPN & UPN", "B": "SDP & NRC", "C": "PDP & APP", "D": "AD & ANPP", "answer": "B" },
+
+  { "id": 78, "question": "Who declared himself president after June 12?", "A": "Abiola", "B": "Shonekan", "C": "Abacha", "D": "Babangida", "answer": "A" },
+
+  { "id": 79, "question": "Which constitution governs Nigeria today?", "A": "1979", "B": "1989", "C": "1999", "D": "1963", "answer": "C" },
+
+  { "id": 80, "question": "Nigeria operates which system of government?", "A": "Parliamentary", "B": "Monarchical", "C": "Presidential", "D": "Confederal", "answer": "C" },
+
+  { "id": 81, "question": "Who was Nigerias first Senate President (Fourth Republic)?", "A": "Anyim Pius Anyim", "B": "Okadigbo", "C": "David Mark", "D": "Ken Nnamani", "answer": "A" },
+
+  { "id": 82, "question": "Which year did Nigeria adopt presidential system?", "A": "1960", "B": "1963", "C": "1979", "D": "1999", "answer": "C" },
+
+  { "id": 83, "question": "Which constitution made Nigeria a federation?", "A": "1954", "B": "1960", "C": "1963", "D": "1979", "answer": "A" },
+
+  { "id": 84, "question": "Who was Premier of Northern Region at independence?", "A": "Balewa", "B": "Ahmadu Bello", "C": "Gowon", "D": "Ironsi", "answer": "B" },
+
+  { "id": 85, "question": "Who was Premier of Western Region?", "A": "Awolowo", "B": "Akintola", "C": "Adegbenro", "D": "Balewa", "answer": "A" },
+
+  { "id": 86, "question": "Which crisis led to fall of First Republic?", "A": "Census", "B": "Election", "C": "Western crisis", "D": "All", "answer": "D" },
+
+  { "id": 87, "question": "Nigerias first census crisis occurred in?", "A": "1962", "B": "1963", "C": "1964", "D": "1965", "answer": "A" },
+
+  { "id": 88, "question": "Which decree unified Nigeria under military rule?", "A": "Decree 1", "B": "Decree 5", "C": "Decree 10", "D": "Unification Decree", "answer": "D" },
+
+  { "id": 89, "question": "Who promulgated the Unification Decree?", "A": "Gowon", "B": "Ironsi", "C": "Obasanjo", "D": "Buhari", "answer": "B" },
+
+  { "id": 90, "question": "Which leader introduced local government reforms?", "A": "Gowon", "B": "Murtala Mohammed", "C": "Obasanjo", "D": "Babangida", "answer": "B" },
+
+  { "id": 91, "question": "Who was Nigerias first indigenous Governor-General?", "A": "Azikiwe", "B": "Macaulay", "C": "Awolowo", "D": "Balewa", "answer": "A" },
+
+  { "id": 92, "question": "Which year was Mid-Western Region created?", "A": "1957", "B": "1960", "C": "1963", "D": "1967", "answer": "C" },
+
+  { "id": 93, "question": "Which region attained self-government first?", "A": "North", "B": "West", "C": "East", "D": "Mid-West", "answer": "B" },
+
+  { "id": 94, "question": "Which constitution granted regional self-government?", "A": "Clifford", "B": "Richards", "C": "Macpherson", "D": "Lyttleton", "answer": "D" },
+
+  { "id": 95, "question": "Who was the first Governor of Northern Nigeria?", "A": "Lord Lugard", "B": "Clifford", "C": "Richards", "D": "Robertson", "answer": "A" },
+
+  { "id": 96, "question": "Which year marked end of civil war?", "A": "1969", "B": "1970", "C": "1971", "D": "1972", "answer": "B" },
+
+  { "id": 97, "question": "Which policy aimed at national unity post-war?", "A": "NYSC", "B": "SAP", "C": "WAI", "D": "UPE", "answer": "A" },
+
+  { "id": 98, "question": "Who introduced Universal Primary Education?", "A": "Gowon", "B": "Obasanjo", "C": "Babangida", "D": "Buhari", "answer": "B" },
+
+  { "id": 99, "question": "Which year was UPE introduced?", "A": "1974", "B": "1975", "C": "1976", "D": "1977", "answer": "C" },
+
+  { "id": 100, "question": "Nigerias independence was granted by?", "A": "Queen Victoria", "B": "British Parliament", "C": "British Crown", "D": "United Nations", "answer": "B" }
+]
