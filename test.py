@@ -1,21 +1,22 @@
 import json
 import random
+import os
 
 
 
 
-# a = json.loads(Q)
+# # a = json.loads(Q)
 
-with open("quiz question.json", "r") as f:
-    B = json.load(f)
+# with open("quiz question.json", "r") as f:
+#     B = json.load(f)
 
-def beans():   
-    N = random.Random()
-    # e = (B[N]["A"], B[N]["B"], B[N]["C"], B[N]["D"])
-    # print(B[N]['question'])
-    yield N
+# def beans():   
+#     N = random.Random()
+#     # e = (B[N]["A"], B[N]["B"], B[N]["C"], B[N]["D"])
+#     # print(B[N]['question'])
+#     yield N
 
-for i in range(10):
-    print(next(beans()))
+# for i in range(10):
+#     print(next(beans()))
 
-        
+os.system("gnome-system-monitor")     
